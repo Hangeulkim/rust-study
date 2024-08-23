@@ -1,0 +1,8 @@
+[package]
+name = "test_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+postgres = "0.19.7"
+priority-queue = "2.0.3"
